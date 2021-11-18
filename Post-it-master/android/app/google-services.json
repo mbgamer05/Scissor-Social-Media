@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081532179005",
+    "project_id": "reeeeeeeeeee-95afd",
+    "storage_bucket": "reeeeeeeeeee-95afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081532179005:android:6b689875fb8d76dcdc8054",
+        "android_client_info": {
+          "package_name": "Scissor.Build1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081532179005-4nstcvi88ojvbbo8ntt0q3cl0499n65i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHjk69IToOzSIvtfQ5ICoNVE_VzDhxxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081532179005-4nstcvi88ojvbbo8ntt0q3cl0499n65i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
