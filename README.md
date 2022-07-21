@@ -21,7 +21,6 @@
 
 </table>
 
-Please replace my googleservice.json with yours.
 
 Post it is a social media app which is made entirely with flutter and firebase.
 The user can login with both Google and Facebook.<br>
@@ -43,4 +42,3 @@ If user logs in successfully a session is been created.<br>
 
 Now in this new update the user can also report other user if they misbehave and that user will not be able to post unless admin allows them and user will only see the 10 recently added posts and not every data of database as previous.<br>
 
-Any Query contact: shettysaket05@gmail.com
